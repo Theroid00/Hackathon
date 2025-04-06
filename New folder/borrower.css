@@ -1,4 +1,12 @@
-.dashboard-title {
+
+ body,html{
+  padding: 0;
+  margin: 0;
+ }
+ .navbar{
+  margin-top: 0 !important;
+ }
+ .dashboard-title {
     font-size: 2.5rem;
     background: linear-gradient(to right, #76db76, #01250d);
     -webkit-background-clip: text;
